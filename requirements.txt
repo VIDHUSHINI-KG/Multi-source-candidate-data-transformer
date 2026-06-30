@@ -1,0 +1,5 @@
+pip install python-dateutil
+pip install phonenumbers
+pip install pandas
+pip install pdfplumber
+pip install pytest
